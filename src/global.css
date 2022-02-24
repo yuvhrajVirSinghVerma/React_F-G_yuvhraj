@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn{
+    left: 82%;
+    top: 80%;
+}
+.sc-dkPtRN{
+    background: #edd6ed !important;
+}
+.MuiOutlinedInput-input {
+    padding: 0 !important;
+}
+.MuiInputLabel-root{
+    top:-16px !important;
+}
+#number{
+    background: url(./img.png) no-repeat;
+    background-size: contain;
+    text-indent: 35px;
+}
